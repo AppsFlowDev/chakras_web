@@ -1,14 +1,30 @@
 {
   "showAds":true,
   "showWeb":true,
-  "adsInterval":45,
+  "adsInterval":40,
   "showAppOpenAd":true,
-  "showFirstAd":true,
+  "showFirstAd":false,
   "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":true,
-  "bannerAdUnit":"ca-app-pub-7996006950744275/6314521742",
-  "interstitialAdUnit":"ca-app-pub-7996006950744275/3688358409",
-  "openAppAdUnitId":"ca-app-pub-7996006950744275/8819870358",
-  "showNews":true
+  "bannerAdUnit":"ca-app-pub-7996006950744275/3083909084",
+  "interstitialAdUnit":"ca-app-pub-7996006950744275/7948115736",
+  "openAppAdUnitId":"ca-app-pub-7996006950744275/5219780544",
+  "nativeAdUnit":"ca-app-pub-7996006950744275/1717178485",
+  "rewardedAdUnit":"ca-app-pub-7996006950744275/4986910475",
+  "rewardedInterstitialAdUnit":"",
+  "showAdCountChat":2,
+  "questionList": [
+    "¿Qué puedo hacer si mi recibo de luz llega con un monto muy alto?",
+    "¿Cómo solicitar la instalación de paneles solares y qué beneficios tiene?",
+    "¿Qué hacer si tengo un corte de luz o fallas en el suministro eléctrico?",
+    "¿Qué alternativas a la CFE tengo para contratar energía eléctrica?",
+    "¿Cuáles son las mejores formas de ahorrar energía en casa?",
+    "¿Cómo sé qué tarifa de luz aplica en mi domicilio?",
+    "¿Qué significa cada concepto en mi recibo de luz?",
+    "¿Qué beneficios tengo al cambiarme a una tarifa DAC (Doméstica de Alto Consumo)?",
+    "¿Cómo afecta el uso de aire acondicionado o calefacción a mi consumo de energía?",
+    "¿Qué programas o apoyos existen para usuarios con dificultades para pagar la luz?"
+  ]
+  
 }
