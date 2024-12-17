@@ -12,6 +12,11 @@
   "openAppAdUnitId":"ca-app-pub-7996006950744275/5219780544",
   "nativeAdUnit":"ca-app-pub-7996006950744275/1717178485",
   "rewardedAdUnit":"ca-app-pub-7996006950744275/4986910475",
+  "banneriOSAdUnit":"ca-app-pub-7996006950744275/5604494167",
+  "interstitialiOSAdUnit":"ca-app-pub-7996006950744275/3861296956",
+  "openAppAdiOSUnitId":"ca-app-pub-7996006950744275/9411877231",
+  "nativeiOSAdUnit":"ca-app-pub-7996006950744275/8846601147",
+  "rewardediOSAdUnit":"ca-app-pub-7996006950744275/1098272944",
   "rewardedInterstitialAdUnit":"",
   "showAdCountChat":2,
   "questionList": [
